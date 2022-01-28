@@ -1,0 +1,75 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    /* background-color: #ced6e0; */
+    background-image: radial-gradient(circle, #845ec2, #5a61b8, #3360a7, #0e5b92, #00557b, #154a6a, #1d3f59, #1f3549, #242737, #201b24, #161014, #000000);
+}
+.section1{
+    width: 80%;
+    height: 38cm;
+    margin: auto;
+    background-image: linear-gradient(to right bottom, #845ec2, #005ea0, #00495b, #062c24, #0f100e);
+}
+h1{
+    font-size: 1.5cm;
+   margin-left: 13.5cm;
+    padding-top: 2cm;
+    color: white;
+}
+.image{
+    float: right;
+    margin-right:1.5cm ;
+}
+h3{
+    color: white;
+    font-size: 0.7cm;
+    text-align: center;
+    margin-top: 1.5cm;
+}
+.info{
+    font-size: 0.6cm;
+    margin-left: 1.5cm;
+    margin-top: 1.4cm;
+    
+}
+.abc{
+    margin-bottom: 1cm;
+}
+
+h4{
+    color: white;
+    font-size: 0.7cm;
+    text-align: center;
+    margin-top: 3cm;
+}
+
+.box{
+    width: 20cm;
+    height: 8cm;
+    margin-left: 6cm;
+    margin-top: 2cm;
+    text-align: left;
+    /* background-color: tomato; */
+    font-size: 0.6cm;
+    color: white;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 0.7cm;
+    margin-top: 2.5cm;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 0.5cm;
+    margin-top: 1.5cm;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
